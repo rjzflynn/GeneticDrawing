@@ -22,7 +22,7 @@ The process is as follows :
 
 
 
-The main classes are:
+The core classes are:
 
 1) GeneticAlgo.java, which contains the method which preforms the above steps.
 
