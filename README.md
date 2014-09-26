@@ -17,6 +17,8 @@ The process is as follows :
 
 5) repeat from 1.
 
+
+
 The main classes are:
 
 1) GeneticAlgo.java, which contains the method which preforms the above steps.
