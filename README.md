@@ -36,10 +36,24 @@ The core classes are:
 ==============
 
 
-Screenshot: http://oi57.tinypic.com/a0xobk.jpg
+Screenshots: 
+
+The app: http://oi57.tinypic.com/a0xobk.jpg
+
+Firefox logo (50 polygons, 6 points) after ~300k candidate solutions: http://oi62.tinypic.com/2djuyhd.jpg
+
+Mona Lisa (50 polygons, 6 points) after ~50k candidate solutions: http://oi58.tinypic.com/nq1mwz.jpg
 
 
-There is an option to export an SVG of the generated drawing.
+
+==============
+
+
+
+
+There is an option to export an SVG of the generated drawing  File -> Export.
+You can change the number of polygons, points in the polygons, and the initial color of the DNA under Settings.
+ 
 
 This programme is an implementation of Roger Alsings original idea: http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/
 
