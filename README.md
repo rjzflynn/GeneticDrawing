@@ -23,7 +23,7 @@ The main classes are:
 
 2) DNAString.java, which encapsulates a "solution". i.e a number of 'genes'
 
-3) Gene.java, a gene encapsulates a polygon in the following format: Red Ggreen Blue Alpha Xcoordinates... Ycoordinates..
+3) Gene.java, a gene encapsulates a polygon in the following format: Red Green Blue Alpha Xcoordinates... Ycoordinates..
 
 4) FitnessCalculator.java, the fitness calculator gives a fitness rating, based on how simillar an image is to the calculators source image.
 
