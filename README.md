@@ -36,7 +36,7 @@ The core classes are:
 ==============
 
 
-Screenshot:
+Screenshot: http://oi57.tinypic.com/a0xobk.jpg
 
 
 There is an option to export an SVG of the generated drawing.
