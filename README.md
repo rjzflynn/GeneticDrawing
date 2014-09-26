@@ -32,6 +32,10 @@ The main classes are:
 
 4) FitnessCalculator.java, the fitness calculator gives a fitness rating, based on how simillar an image is to the calculators source image.
 
+
+==============
+
+
 Screenshot:
 
 
