@@ -42,7 +42,7 @@ The app: http://oi57.tinypic.com/a0xobk.jpg
 
 Firefox logo (50 polygons, 6 points) after ~300k candidate solutions: http://oi62.tinypic.com/2djuyhd.jpg
 
-Mona Lisa (50 polygons, 6 points) after ~50k candidate solutions: http://oi58.tinypic.com/nq1mwz.jpg
+Mona Lisa (50 polygons, 3 points) after ~50k candidate solutions: http://oi58.tinypic.com/nq1mwz.jpg
 
 
 
